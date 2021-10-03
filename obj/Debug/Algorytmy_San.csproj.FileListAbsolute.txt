@@ -1,0 +1,10 @@
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\bin\Debug\Algorytmy_San.exe.config
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\bin\Debug\Algorytmy_San.exe
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\bin\Debug\Algorytmy_San.pdb
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\obj\Debug\Algorytmy_San.csprojAssemblyReference.cache
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\obj\Debug\Algorytmy_San.Form1.resources
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\obj\Debug\Algorytmy_San.Properties.Resources.resources
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\obj\Debug\Algorytmy_San.csproj.GenerateResource.cache
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\obj\Debug\Algorytmy_San.csproj.CoreCompileInputs.cache
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\obj\Debug\Algorytmy_San.exe
+C:\Users\xedan\Desktop\algorytmy\Algorytmy_San\Algorytmy_San\obj\Debug\Algorytmy_San.pdb
